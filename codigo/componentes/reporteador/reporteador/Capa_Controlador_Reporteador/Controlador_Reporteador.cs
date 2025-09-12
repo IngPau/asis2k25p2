@@ -8,7 +8,7 @@ using Capa_Modelo_Reporteador; //Paula Leonardo
 
 namespace Capa_Controlador_Reporteador
 {
- //Clase Publica
+    //Clase Publica
     public class Controlador_Reporteador
     {
         // Inicio de código de: Paula Leonardo con carné: 0901-22-9580 en la fecha de: 11/09/2025
